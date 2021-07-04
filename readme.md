@@ -6,6 +6,8 @@ systems are used, but in indoor environments GPS signals are very weak. So using
 result less accurate position estimations. To overcome this IMU data is being used to estimate position
 indoors.
 
+in Depth Info can be found in Report.pdf in this repo
+
 Dataset: http://users.isy.liu.se/rt/parka23/publications/IPIN2017.pdf
 
 Mostly inspired from => https://ieeexplore.ieee.org/document/6127851
